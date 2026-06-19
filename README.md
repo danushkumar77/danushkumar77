@@ -19,16 +19,19 @@
 
 ---
 
-## 🔥 My Stats:
+## 📬 Let's Connect
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar77&theme=dark" />
-</p>
+🔗 **LinkedIn**
+[www.linkedin.com/in/danush-kumar-dk](http://www.linkedin.com/in/danush-kumar-dk)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=danushkumar77&show_icons=true&theme=dark" />
-</p>
+🌐 **Portfolio**
+danushkumar.vercel.app
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkumar77&layout=compact&theme=dark" />
-</p>
+📧 **Email**
+[danushkumardk07@gmail.com](mailto:danushkumardk07@gmail.com)
+
+---
+
+### 🚀 Building Innovative Web Experiences
+
+*"Passionate about transforming ideas into scalable digital solutions."*
