@@ -13,10 +13,23 @@
 
 ## 🛠️ Languages and Tools:
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,postman" />
+<h3 align="center">Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
+<h3 align="center">Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+</p>
 ---
 
 ## 📬 Let's Connect
