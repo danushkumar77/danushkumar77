@@ -1,44 +1,34 @@
-# Hi 👋, I'm Danushkumar VS
+# Hi 👋, I'm Danushkumar DK
 
-### Full Stack Developer | B.E. Computer Science & Engineering Student
+### Full Stack Developer | MERN Stack Learner | CSE Student
 
-🚀 Passionate about building modern web applications and solving real-world problems through technology.
+- 🔭 I’m currently working on **EduManage College Management System**
+- 🌱 I’m currently learning **MERN Stack & Next.js**
+- 👨‍💻 All of my projects are available at **danushkumar.vercel.app**
+- 💬 Ask me about **React, JavaScript, Node.js, MongoDB**
+- 📫 How to reach me: **danushkumardk07@gmail.com**
+- ⚡ I love building clean and responsive web applications
 
-🎓 Currently pursuing B.E. Computer Science & Engineering at Sri Eshwar College of Engineering.
+---
 
-💻 Skilled in:
+## 🛠️ Languages and Tools:
 
-* HTML, CSS, JavaScript
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* Git & GitHub
-* Bootstrap & Tailwind CSS
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,bootstrap,tailwind,git,github,vscode,postman" />
+</p>
 
-🌱 Currently Learning:
+---
 
-* Advanced MERN Stack Development
-* Data Structures & Algorithms
-* Next.js
+## 🔥 My Stats:
 
-🏆 Projects:
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danushkumar77&theme=dark" />
+</p>
 
-* EduManage – College Management System
-* Sports E-Commerce Platform
-* Personal Portfolio Website
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=danushkumar77&show_icons=true&theme=dark" />
+</p>
 
-📈 GitHub Stats:
-
-* Building Full Stack Projects
-* Exploring Modern Web Technologies
-* Open to Internship Opportunities
-
-📫 Connect With Me:
-
-* Portfolio: https://danushkumar.vercel.app
-* LinkedIn: [www.linkedin.com/in/danush-kumar-dk](https://www.linkedin.com/in/danushkumar-v-s-797a4a329)
-* Email: [danushkumardk07@gmail.com](mailto:danushkumardk07@gmail.com)
-
-⚡ Fun Fact:
-I enjoy transforming ideas into responsive and user-friendly web applications.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkumar77&layout=compact&theme=dark" />
+</p>
