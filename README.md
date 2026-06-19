@@ -1,6 +1,6 @@
 # Hi 👋, I'm Danushkumar VS
 
-### Full Stack Developer | MERN Stack Learner | CSE Student
+💻 Full Stack Developer | 🚀 Software Engineer in Progress | 🎓 B.E. Computer Science & Engineering
 
 - 🔭 Developing **GovSphere – A Digital Citizen Service & Governance Platform**
 - 🌱 I’m currently learning **MERN Stack & Next.js**
