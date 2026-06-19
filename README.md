@@ -1,11 +1,10 @@
-# Hi 👋, I'm Danushkumar DK
+# Hi 👋, I'm Danushkumar VS
 
 ### Full Stack Developer | MERN Stack Learner | CSE Student
 
-- 🔭 I’m currently working on **EduManage College Management System**
+- 🔭 Developing **GovSphere – A Digital Citizen Service & Governance Platform**
 - 🌱 I’m currently learning **MERN Stack & Next.js**
 - 👨‍💻 All of my projects are available at **danushkumar.vercel.app**
-- 💬 Ask me about **React, JavaScript, Node.js, MongoDB**
 - 📫 How to reach me: **danushkumardk07@gmail.com**
 - ⚡ I love building clean and responsive web applications
 
