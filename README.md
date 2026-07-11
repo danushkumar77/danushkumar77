@@ -1,3 +1,4 @@
+<img width="1596" height="434" alt="github-header-banner" src="https://github.com/user-attachments/assets/530e56e7-5a4b-4834-9bd7-b34c16891f60" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/danushkumar77/danushkumar77/main/assets/github-header-banner.png" width="100%" alt="Danushkumar VS Banner"/>
 </p>
