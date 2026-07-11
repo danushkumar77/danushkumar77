@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danushkumar77/main/assets/github-header-banner.png" width="100%" alt="Danushkumar VS Banner"/>
+<img src="https://raw.githubusercontent.com/danushkumar77/danushkumar77/main/assets/github-header-banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Danushkumar VS</h1>
 
-<h3 align="center">
+<h3 align="center"><img width="1596" height="434" alt="github-header-banner" src="https://github.com/user-attachments/assets/2ec1cb4c-2995-4205-809d-cb149476898e" />
+
 🚀 Full Stack Developer | 🤖 Machine Learning Enthusiast | 💻 Problem Solver
 </h3>
 
