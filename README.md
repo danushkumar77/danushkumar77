@@ -1,7 +1,5 @@
 <img width="1596" height="434" alt="github-header-banner" src="https://github.com/user-attachments/assets/530e56e7-5a4b-4834-9bd7-b34c16891f60" />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danushkumar77/danushkumar77/main/assets/github-header-banner.png" width="100%" alt="Danushkumar VS Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Danushkumar VS</h1>
 
@@ -79,43 +77,10 @@
 | 🤖 InterviewPro AI | AI Interview Preparation |
 | ⚽ Titan Gear | Sports E-Commerce Platform |
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danushkumar77&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkumar77&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=danushkumar77&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=danushkumar77&theme=tokyonight&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danushkumar77&theme=tokyo-night"/>
-</p>
-
----
 
 ## 💻 Coding Profiles
 
@@ -155,7 +120,7 @@
 
 <div align="center">
 
-### "Code • Learn • Build • Repeat 🚀"
+### "Turning ideas into scalable solutions, one line of code at a time.🚀"
 
 </div>
 
