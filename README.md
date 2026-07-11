@@ -8,18 +8,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/danushkumar77">
-    <img src="https://img.shields.io/github/followers/danushkumar77?label=Followers&style=for-the-badge" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=danushkumar77&style=for-the-badge&color=blueviolet" />
-
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
+<p align-"center">
 
 ## 💫 About Me
 
@@ -30,6 +25,8 @@
 - 🏆 2nd Runner-up - Amrita Techathon
 - 🌱 Currently learning Spring Boot, Docker, AWS & Machine Learning
 - ⚡ I enjoy building scalable real-world applications.
+
+- </p>
 
 ---
 
@@ -126,9 +123,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=danushkumar77&label=Profile%20Views&style=flat-square&color=blueviolet"/>
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
