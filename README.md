@@ -34,24 +34,23 @@
 
 <p align="center">
 
-<a href="https://github.com/danushkumar77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/danushkumar77" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL" title="Gmail">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://danushkumar.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://danushkumar.vercel.app" title="Portfolio">
+<img src="https://img.icons8.com/color/96/domain.png" height="55"/>
 </a>
 
 </p>
-
 ---
 
 ## 💻 Tech Stack
