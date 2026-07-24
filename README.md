@@ -32,22 +32,22 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/danushkumar77">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/danushkumar77" title="GitHub">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" title="LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL" title="Gmail">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://danushkumar.vercel.app">
-<img src="https://img.icons8.com/color/48/domain.png"/>
+<a href="https://danushkumar.vercel.app" title="Portfolio">
+<img src="https://img.icons8.com/color/96/domain.png" height="55"/>
 </a>
 
 </p>
